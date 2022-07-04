@@ -1,3 +1,3 @@
 # TFE_UNIR_BLOCKCHAIN
 
-Proyecto Blockchain realizao por Anzony y Rodrigo
+Proyecto Blockchain realizado por Anzony y Rodrigo
