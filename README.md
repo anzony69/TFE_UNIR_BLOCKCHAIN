@@ -2,8 +2,7 @@
 
 Proyecto Blockchain realizado por Anzony y Rodrigo
 
-Trabajo Final de Experto:
-Descripción del Trabajo Final de Experto
+Descripción del Trabajo Final de Experto:
 
 Objetivo
 
